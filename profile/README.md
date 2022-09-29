@@ -2,7 +2,7 @@
 
 # What is DCC Boxed?
 
-DCC Boxed (built by the [SmartDCC][smartdcc]) gives you the DCC infrastructure in the palm of your hand. It is designed to emulate the smart metering network, by offering a suite of testing tools that enable authorised users to better understand, enhance or develop their own solutions.
+DCC Boxed (built by the [Smart DCC][smartdcc]) gives you the DCC infrastructure in the palm of your hand. It is designed to emulate the smart metering network, by offering a suite of testing tools that enable authorised users to better understand, enhance or develop their own solutions.
 
 * [What’s in the box?][whats-in-the-box]
 * [How can DCC Boxed help?][how-can-boxed-help]
@@ -15,7 +15,7 @@ DCC Boxed (built by the [SmartDCC][smartdcc]) gives you the DCC infrastructure i
 [order]: https://www.smartdcc.co.uk/our-smart-network/network-products-services/dcc-boxed/#place-an-order "Find out how to get a copy of DCC Boxed"
 [faq]: https://www.smartdcc.co.uk/our-smart-network/network-products-services/dcc-boxed/#faqs "See official product FAQ list"
 
-# Who is [SmartDCC][smartdcc]?
+# Who is [Smart DCC][smartdcc]?
 
 We're the DCC (Data Communications Company) and together with our customers we connect homes and businesses to a single, secure, smart metering network.
 
