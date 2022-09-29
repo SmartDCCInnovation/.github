@@ -17,6 +17,4 @@ DCC Boxed (built by the [DCC][smartdcc]) gives you the DCC infrastructure in the
 
 # Who is [DCC][smartdcc]?
 
-We're the DCC (Data Communications Company) and together with our customers we connect homes and businesses to a single, secure, smart metering network.
-
-The DCC is building and maintaining the network to which Britain's smart meters and energy suppliers connect to. When the roll-out is complete, 30 million homes will be connected to our network.
+The Data Communications Company (DCC) provides the digital backbone of Britain’s energy system. They have delivered a unique, secure communications platform that is now available in more than 99% of premises across Britain. It connects tens of millions of smart meters across all of Britain, supporting the nation’s journey to net zero.
