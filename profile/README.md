@@ -15,6 +15,6 @@ DCC Boxed (built by the [DCC][smartdcc]) gives you the DCC infrastructure in the
 [order]: https://www.smartdcc.co.uk/our-smart-network/network-products-services/dcc-boxed/#place-an-order "Find out how to get a copy of DCC Boxed"
 [faq]: https://www.smartdcc.co.uk/our-smart-network/network-products-services/dcc-boxed/#faqs "See official product FAQ list"
 
-# Who is [DCC][smartdcc]?
+# Who is the [DCC][smartdcc]?
 
 The Data Communications Company (DCC) provides the digital backbone of Britain’s energy system. They have delivered a unique, secure communications platform that is now available in more than 99% of premises across Britain. It connects tens of millions of smart meters across all of Britain, supporting the nation’s journey to net zero.
